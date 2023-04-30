@@ -1,2 +1,2 @@
 # Euler_test
-This will be completed euler tasks ( probaly all )
+This will be completed euler tasks in different paradigms ( probaly all )
